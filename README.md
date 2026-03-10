@@ -25,7 +25,6 @@ Database
 - Firebase
 
 Tools
-- Terraform
 - Git
 - CI/CD
 
@@ -36,7 +35,6 @@ Tools
 - Full stack product features
 - Clean UI/UX driven apps
 - Scalable backend APIs
-- Automation and infrastructure
 
 ---
 
