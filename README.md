@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi, I'm Pranalsingh Rajput
 
-<!--
-**Twice908/Twice908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product-focused developer who enjoys building complete features from idea to deployment.
 
-Here are some ideas to get you started:
+I specialize in building scalable apps with strong fundamentals and clean architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech Stack
+
+Frontend
+- Flutter
+- React
+- Next JS
+- HTML / CSS / JavaScript
+
+Backend
+- Node.js
+- AWS Lambda
+- Serverless
+
+Database
+- Prisma
+- PostgreSQL
+- Firebase
+
+Tools
+- Terraform
+- Git
+- CI/CD
+
+---
+
+## What I Like Building
+
+- Full stack product features
+- Clean UI/UX driven apps
+- Scalable backend APIs
+- Automation and infrastructure
+
+---
+
+## Current Focus
+
+- Flutter application architecture
+- Backend systems with AWS
+- Product oriented development
+
+---
+
+## Philosophy
+
+I believe in understanding the fundamentals first and using AI as a tool, not a crutch.
+
+Give me a problem and a deadline — I'll make sure it gets solved.
+
+---
+
+## Connect
+
+GitHub: https://github.com/Twice908
