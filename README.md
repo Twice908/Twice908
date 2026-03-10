@@ -9,14 +9,15 @@ I specialize in building scalable apps with strong fundamentals and clean archit
 ## Tech Stack
 
 Frontend
-- Flutter
 - React
 - Next JS
-- HTML / CSS / JavaScript
+- Flutter
+- HTML / CSS / Tailwind CSS/ JavaScript
 
 Backend
 - Node.js
 - AWS Lambda
+- REST APIs
 - Serverless
 
 Database
